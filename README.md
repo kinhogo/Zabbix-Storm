@@ -1,4 +1,4 @@
-ZABBIX STORM é um script interativo e automatizado que instala o Zabbix Server + Grafana em sistemas Ubuntu Server 24.04 de forma rápida, eficiente e visualmente amigável no terminal.
+.ZABBIX STORM é um script interativo e automatizado que instala o Zabbix Server + Grafana em sistemas Ubuntu Server 24.04 de forma rápida, eficiente e visualmente amigável no terminal.
 
 Desenvolvido para profissionais de infraestrutura, DevOps, analistas NOC e entusiastas de monitoramento que desejam agilizar a montagem de laboratórios ou ambientes de produção com uma interface clara e colorida.
 
